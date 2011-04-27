@@ -1,0 +1,12 @@
+MANIFEST
+README.rst
+setup.py
+python_rest_client/gae_restful_lib.py
+python_rest_client/httplib2/__init__.py
+python_rest_client/httplib2/iri2uri.py
+python_rest_client/microblog_exceptions.py
+python_rest_client/mimeTypes.py
+python_rest_client/restful_lib.py
+python_rest_client/talis.py
+python_rest_client/tinyurl.py
+python_rest_client/twitter.py
