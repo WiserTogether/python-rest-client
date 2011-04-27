@@ -15,6 +15,7 @@ setup(
     url='https://github.com/easel/python-rest-client',
     license='FedoraCommons',
     include_package_data=True,
+    packages=('python_rest_client',),
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
