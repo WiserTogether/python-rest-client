@@ -16,6 +16,7 @@ setup(
     license='FedoraCommons',
     include_package_data=True,
     packages=('python_rest_client',),
+    install_requires=['httplib2'],
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
